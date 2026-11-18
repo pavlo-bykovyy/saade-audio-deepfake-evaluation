@@ -1,0 +1,15 @@
+# Non-pinned runtime dependencies for the current Jupyter workflows.
+# Reproduce the original server environment for exact comparisons; see docs/REPRODUCIBILITY_UA.md.
+numpy
+pandas
+scipy
+scikit-learn
+soundfile
+matplotlib
+ipython
+jupyterlab
+nbformat
+onnxruntime
+huggingface_hub
+torch
+transformers

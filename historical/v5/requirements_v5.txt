@@ -1,0 +1,12 @@
+numpy>=1.24
+pandas>=2.0
+scipy>=1.10
+scikit-learn>=1.3
+soundfile>=0.12
+matplotlib>=3.7
+statsmodels>=0.14
+joblib>=1.3
+nbformat>=5.8
+ipywidgets>=8
+# torch: install only if missing; preserve server's CUDA-compatible build
+# optional: transformers (frozen WavLM head), piper-tts CLI, official AASIST/RawNet2 repositories

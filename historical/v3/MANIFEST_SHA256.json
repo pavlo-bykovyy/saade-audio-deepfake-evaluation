@@ -1,0 +1,47 @@
+[
+  {
+    "file": "SAADE_AUA_v3_Full_Metadata_Corrected.ipynb",
+    "bytes": 27361,
+    "sha256": "35d0c28b15977421dc5b006134585f4aed3cda472b69344ab7a26dba1eb5e90f"
+  },
+  {
+    "file": "SAADE_AUA_v3_Results_Viewer.ipynb",
+    "bytes": 2983,
+    "sha256": "1fd2b7c2d1fea39c22115c2defa7bbd29545beae77d198cad0e3dbfc9e1e9cb2"
+  },
+  {
+    "file": "saade_v3_core.py",
+    "bytes": 59100,
+    "sha256": "39f156a8855a06520ca4b4f049c45f270cfaa7d6c7996c46096ca1ab657a39fd"
+  },
+  {
+    "file": "saade_v3_data.py",
+    "bytes": 18001,
+    "sha256": "fa6726adcc86454d4a8714e14890966db5fd2fb1f089b6100b8b7d08db001d04"
+  },
+  {
+    "file": "saade_v3_methods.py",
+    "bytes": 20296,
+    "sha256": "73ce103bdc1162b7474452fa2eaeb0fb65c364f2bb9f284f403569ad3c22a5be"
+  },
+  {
+    "file": "saade_v3_visuals.py",
+    "bytes": 31425,
+    "sha256": "b65b4f97690a092678fad930c5e333f5bac0ef7b4b257f04a4486be421e5d25b"
+  },
+  {
+    "file": "README_SAADE_v3_UA.md",
+    "bytes": 10079,
+    "sha256": "06ec4293c8e4a9a1674a1edc8a3d0d7ce3bb32846e266ec8b33edc58ab1b32e5"
+  },
+  {
+    "file": "requirements_v3.txt",
+    "bytes": 258,
+    "sha256": "d1bcf95f9c0175e7abba816a06b229f8dff4d43454626fef788923de6400f582"
+  },
+  {
+    "file": "test_smoke.py",
+    "bytes": 5542,
+    "sha256": "c52c582d55324a1e901b34ffdcd2b3c2ce4cd505098739a3f6db29e95d3ea59b"
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "00_Preflight_AUA.ipynb": "cb8ae9bd787f7b334fbc779b2d61ef9c415108126dd911ab474e90fce445483b",
+  "01_Text_to_TTS.ipynb": "0fc7ae19babb3db365505acceb6c80d25afb922ccf49f852f81f3d4a7de1056e",
+  "02_Full_Dissertation_Experiment.ipynb": "1288485c7543ea9e42e83ded6ac635923617fe2e109b97b16529bdc370f7f258",
+  "03_Results_Audio_Viewer.ipynb": "1c60f929b8fb0139eca115f243cbee49726181836c16ee0652b74af2e9e42598",
+  "04_Hidden_Test_ONCE.ipynb": "32dfc305ce09e9d229ae557dc5af8e42987e5cdb1c37c4ea4cba504ccc790f38",
+  "README_УКРАЇНСЬКОЮ.md": "085f29bb4a24deb655700184a40e4b7c0d553e85e6ca77b7958def010305da24",
+  "requirements_v5.txt": "85c8e94ed85f9d255f6b9e3ee3d67a50f2669da7f9a6d08b98bbae96e56aaa71",
+  "saade_final_adaptive.py": "aa4f117b3ee50bc3d5e8a9293db0d2a91e791b24dd6708a1ff1276b36cd47e2b",
+  "saade_final_core.py": "1c8ec082cddf0ab87a1a896a777a9f3df4feb8c5c86e303a23dba3feae8b1b33",
+  "saade_final_data.py": "fd1dac73254152bf59b8a7d80c2c13826455b77613aee06068b3155264dcb307",
+  "saade_final_methods.py": "a05c8b95f830d1b44ecfd99e42d0c0320db82ec0fba733d646b8f97464434885",
+  "saade_final_visuals.py": "cda8f19c1b2c86aa6d3bc6f74f47a7efeb77a80323a0f5cc75b140f6d5d832a9",
+  "test_v5_drssu_adapter.py": "7f52058db78da82f85c3f56d7020e3346e32452eb39d80e85ad684febd10e092",
+  "test_v5_pairs.py": "5fef0d79249f504320e8fc1c39cab7f1efb2d1e204ce0f6d79d2a1897497765f",
+  "test_v5_smoke.py": "c2019363301dc7dd3d206b5f93fe53a287c73147df5a473e1bfcc81575c4f858"
+}

@@ -1,0 +1,12 @@
+# Install inside the active Jupyter kernel with: %pip install -r requirements_v3.txt
+# torch intentionally omitted: respect the existing CUDA-specific server install
+numpy
+pandas
+scipy
+soundfile
+scikit-learn
+joblib
+matplotlib
+statsmodels
+ipywidgets
+nbformat

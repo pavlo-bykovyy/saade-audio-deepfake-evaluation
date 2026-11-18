@@ -1,0 +1,11 @@
+numpy
+pandas
+scipy
+scikit-learn
+soundfile
+matplotlib
+statsmodels
+torch
+joblib
+nbformat
+ipywidgets

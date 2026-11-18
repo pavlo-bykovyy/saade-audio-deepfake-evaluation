@@ -1,0 +1,35 @@
+# Large local data and model weights
+AUA/
+**/audio_real_fake/
+**/results/
+results/
+data/raw/
+*.wav
+*.mp3
+*.flac
+*.ogg
+*.onnx
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+*.sqlite3
+*.sqlite3-shm
+*.sqlite3-wal
+*.db
+*.partial
+
+# Execution artifacts
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+.DS_Store
+.env
+.env.*
+!*.env.example
+**/*FOR_REVIEW.zip
+**/*PREDICTIONS.csv
+**/HIDDEN_ONCE_STARTED*.json
+**/HIDDEN_ONCE_FINISHED*.json

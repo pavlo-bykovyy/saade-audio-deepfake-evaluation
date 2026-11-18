@@ -1,0 +1,212 @@
+{
+  "orig_bootstrap": {
+    "filename": "/mnt/data/saade_results_paper/figures/source_09_ASRI_BOOTSTRAP_COMPARISON.png",
+    "caption": "Original v9.1: clean BA and pair-bootstrap ASRI-Audio confidence intervals (validation).",
+    "section": "main",
+    "original": "09_ASRI_BOOTSTRAP_COMPARISON.png"
+  },
+  "orig_heatmap": {
+    "filename": "/mnt/data/saade_results_paper/figures/source_09_MATCHED_VALIDATION_HEATMAP.png",
+    "caption": "Original v9.1: 21-scenario validation Balanced Accuracy heatmap.",
+    "section": "supplement",
+    "original": "09_MATCHED_VALIDATION_HEATMAP.png"
+  },
+  "orig_source": {
+    "filename": "/mnt/data/saade_results_paper/figures/source_09_AUA_BY_SOURCE_RECALL.png",
+    "caption": "Original v9.1: source-conditioned clean-class recalls in the canonical AUA.",
+    "section": "supplement",
+    "original": "09_AUA_BY_SOURCE_RECALL.png"
+  },
+  "orig_noise": {
+    "filename": "/mnt/data/saade_results_paper/figures/source_09_FAMILY_NOISE.png",
+    "caption": "Original v9.1: validation Balanced Accuracy across five noise levels.",
+    "section": "supplement",
+    "original": "09_FAMILY_NOISE.png"
+  },
+  "orig_mp3": {
+    "filename": "/mnt/data/saade_results_paper/figures/source_09_FAMILY_MP3.png",
+    "caption": "Original v9.1: validation Balanced Accuracy across five MP3 bitrates.",
+    "section": "supplement",
+    "original": "09_FAMILY_MP3.png"
+  },
+  "orig_reverb": {
+    "filename": "/mnt/data/saade_results_paper/figures/source_09_FAMILY_REVERB.png",
+    "caption": "Original v9.1: validation Balanced Accuracy across five reverberation levels.",
+    "section": "supplement",
+    "original": "09_FAMILY_REVERB.png"
+  },
+  "orig_lowpass": {
+    "filename": "/mnt/data/saade_results_paper/figures/source_09_FAMILY_LOWPASS.png",
+    "caption": "Original v9.1: validation Balanced Accuracy across five low-pass cutoffs.",
+    "section": "supplement",
+    "original": "09_FAMILY_LOWPASS.png"
+  },
+  "orig_waveform": {
+    "filename": "/mnt/data/saade_results_paper/figures/source_09_TRAIN_AUDIO_WAVEFORM.png",
+    "caption": "Original v9.1: illustrative waveform from the training partition; not an inference metric.",
+    "section": "supplement",
+    "original": "09_TRAIN_AUDIO_WAVEFORM.png"
+  },
+  "orig_preproc": {
+    "filename": "/mnt/data/saade_results_paper/figures/source_11_ZERO_VS_REPEAT_ASRI.png",
+    "caption": "Original v9.1: ASRI-Audio under zero- vs repeat-padding.",
+    "section": "supplement",
+    "original": "11_ZERO_VS_REPEAT_ASRI.png"
+  },
+  "coverage": {
+    "filename": "/mnt/data/saade_results_paper/figures/01_dataset_source_counts.png",
+    "caption": "Original-recording counts by canonical source, after removing hidden-overlap records.",
+    "section": "main",
+    "original": null
+  },
+  "voice_splits": {
+    "filename": "/mnt/data/saade_results_paper/figures/02_matched_voice_split.png",
+    "caption": "Exact matched-text allocation: 110 train, 240 adaptation, 94 validation, and 69 hidden pairs.",
+    "section": "main",
+    "original": null
+  },
+  "validation_heatmap": {
+    "filename": "/mnt/data/saade_results_paper/figures/02b_validation_21_heatmap_EN.png",
+    "caption": "English-language validation 21-scenario Balanced Accuracy heatmap from 06_ALL_SCENARIO_METRICS.csv.",
+    "section": "main",
+    "original": null
+  },
+  "asri_two_voice": {
+    "filename": "/mnt/data/saade_results_paper/figures/03_validation_hidden_ASRI_CI.png",
+    "caption": "Validation (n=94, Tetiana) and one-time hidden (n=69, Lada) ASRI-Audio with within-voice 95% CIs.",
+    "section": "main",
+    "original": null
+  },
+  "clean_stress": {
+    "filename": "/mnt/data/saade_results_paper/figures/04_clean_vs_stress.png",
+    "caption": "Clean BA versus 20-scenario mean BA for each model on validation and hidden.",
+    "section": "main",
+    "original": null
+  },
+  "hidden_ba_heatmap": {
+    "filename": "/mnt/data/saade_results_paper/figures/05_hidden_21_heatmap_BA.png",
+    "caption": "Independent hidden-set BA for 21 scenarios and three frozen models.",
+    "section": "main",
+    "original": null
+  },
+  "hidden_auc_heatmap": {
+    "filename": "/mnt/data/saade_results_paper/figures/05_hidden_21_heatmap_ROC_AUC.png",
+    "caption": "Independent hidden-set ROC_AUC for 21 scenarios and three frozen models.",
+    "section": "supplement",
+    "original": null
+  },
+  "hidden_family_ba": {
+    "filename": "/mnt/data/saade_results_paper/figures/06_hidden_family_BA.png",
+    "caption": "Family-averaged hidden BA: each family contributes five equally weighted scenarios.",
+    "section": "main",
+    "original": null
+  },
+  "hidden_family_auc": {
+    "filename": "/mnt/data/saade_results_paper/figures/06_hidden_family_ROC_AUC.png",
+    "caption": "Family-averaged hidden ROC_AUC: each family contributes five equally weighted scenarios.",
+    "section": "supplement",
+    "original": null
+  },
+  "hidden_directional": {
+    "filename": "/mnt/data/saade_results_paper/figures/07_hidden_TPR_vs_TNR.png",
+    "caption": "Hidden fake sensitivity versus real-speech specificity; scores near BA = 0.5 can mask opposite error directions.",
+    "section": "main",
+    "original": null
+  },
+  "conf_clean": {
+    "filename": "/mnt/data/saade_results_paper/figures/08_hidden_confusion_clean.png",
+    "caption": "Hidden (69 real, 69 fake) confusion matrices under clean; rows true class and columns predicted class.",
+    "section": "supplement",
+    "original": null
+  },
+  "conf_reverb": {
+    "filename": "/mnt/data/saade_results_paper/figures/08_hidden_confusion_reverb_rt0.85.png",
+    "caption": "Hidden (69 real, 69 fake) confusion matrices under reverb_rt0.85; rows true class and columns predicted class.",
+    "section": "main",
+    "original": null
+  },
+  "hidden_family_curves": {
+    "filename": "/mnt/data/saade_results_paper/figures/09_hidden_family_curves.png",
+    "caption": "Hidden (Lada) Balanced Accuracy at all five levels in all four perturbation families.",
+    "section": "supplement",
+    "original": null
+  },
+  "val_family_curves": {
+    "filename": "/mnt/data/saade_results_paper/figures/09_val_family_curves.png",
+    "caption": "Validation (Tetiana) Balanced Accuracy at all five levels in all four perturbation families.",
+    "section": "supplement",
+    "original": null
+  },
+  "voice_shift_family": {
+    "filename": "/mnt/data/saade_results_paper/figures/10_validation_hidden_family_delta.png",
+    "caption": "Change in family-averaged BA when moving from Tetiana validation to Lada hidden; descriptive, not causal.",
+    "section": "main",
+    "original": null
+  },
+  "voice_shift_asri": {
+    "filename": "/mnt/data/saade_results_paper/figures/11_hidden_minus_validation_ASRI.png",
+    "caption": "Hidden minus validation ASRI-Audio: AASIST −0.0044, AASIST-L +0.0139, Wav2Vec2 +0.0615.",
+    "section": "main",
+    "original": null
+  },
+  "pairwise_validation_hidden": {
+    "filename": "/mnt/data/saade_results_paper/figures/12_pairwise_ASRI_CIs_two_voices.png",
+    "caption": "Paired 95% bootstrap intervals: validation AASIST–Wav2Vec2 excludes zero, hidden does not.",
+    "section": "main",
+    "original": null
+  },
+  "preprocessing_comparison": {
+    "filename": "/mnt/data/saade_results_paper/figures/13_preprocessing_matched_validation.png",
+    "caption": "Change in clean BA and ASRI-Audio between v9 and v9.1; includes recalibration, not padding-only causal effect.",
+    "section": "main",
+    "original": null
+  },
+  "preprocess_decisions": {
+    "filename": "/mnt/data/saade_results_paper/figures/14_preprocess_changed_decisions.png",
+    "caption": "Share of changed predictions comparing two end-to-end preprocessing + calibration configurations.",
+    "section": "supplement",
+    "original": null
+  },
+  "source_recall_derived": {
+    "filename": "/mnt/data/saade_results_paper/figures/15_AUA_source_clean_recall_replotted.png",
+    "caption": "Conditioned source-specific recall; AUA source labels are class-confounded.",
+    "section": "supplement",
+    "original": null
+  },
+  "directional_heatmap": {
+    "filename": "/mnt/data/saade_results_paper/figures/16_hidden_directional_heatmap.png",
+    "caption": "Scenario-level hidden fake TPR and real TNR; highlights one-class collapse under noise/reverberation.",
+    "section": "supplement",
+    "original": null
+  },
+  "directional_scatter": {
+    "filename": "/mnt/data/saade_results_paper/figures/17_hidden_TPR_TNR_scatter.png",
+    "caption": "Each point is one perturbation scenario; location shows distinct false-rejection and miss profiles.",
+    "section": "supplement",
+    "original": null
+  },
+  "hidden_noise": {
+    "filename": "/mnt/data/saade_results_paper/figures/18_hidden_severity_noise.png",
+    "caption": "Hidden Balanced Accuracy across all five controlled noise severity levels.",
+    "section": "supplement",
+    "original": null
+  },
+  "hidden_mp3": {
+    "filename": "/mnt/data/saade_results_paper/figures/18_hidden_severity_mp3.png",
+    "caption": "Hidden Balanced Accuracy across all five controlled mp3 severity levels.",
+    "section": "supplement",
+    "original": null
+  },
+  "hidden_reverb": {
+    "filename": "/mnt/data/saade_results_paper/figures/18_hidden_severity_reverb.png",
+    "caption": "Hidden Balanced Accuracy across all five controlled reverb severity levels.",
+    "section": "supplement",
+    "original": null
+  },
+  "hidden_lowpass": {
+    "filename": "/mnt/data/saade_results_paper/figures/18_hidden_severity_lowpass.png",
+    "caption": "Hidden Balanced Accuracy across all five controlled lowpass severity levels.",
+    "section": "supplement",
+    "original": null
+  }
+}

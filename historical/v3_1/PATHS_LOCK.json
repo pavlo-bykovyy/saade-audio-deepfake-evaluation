@@ -1,0 +1,16 @@
+{
+  "version": "SAADE v3.1",
+  "project_root": "/home/jovyan/work/audio_real_fake",
+  "dataset_readonly": "/home/jovyan/work/audio_real_fake/AUA",
+  "results_dir": "/home/jovyan/work/audio_real_fake/results/SAADE_AUA_2026_v3_1_metadata_fixed",
+  "no_write_paths": [
+    "/home/jovyan/work/Melnyk_dus",
+    "/home/jovyan/work/audio_real_fake/AUA"
+  ],
+  "melnyk_audit_reference_only": [
+    "results/AUA_audit/deep_audit/AUA_DEEP_AUDIT_SUMMARY.txt",
+    "results/AUA_audit/deep_audit/FINAL_KPI_ACCEPTANCE.csv",
+    "results/AUA_audit/deep_audit/AUA_FULL_AUDIT.xlsx"
+  ],
+  "data_policy": "audit canonical audio only, exclude 05_splits copies"
+}

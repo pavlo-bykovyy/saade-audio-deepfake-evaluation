@@ -1,0 +1,40 @@
+{
+  "upload_type": "software",
+  "title": "SAADE-AUA: Scenario-Adaptive Audio Deepfake Evaluation on Ukrainian Speech",
+  "description": "<p>Source code for <strong>Scenario-Adaptive Audio Deepfake Evaluation (SAADE)</strong> on the Ukrainian AUA corpus.</p><p>The project evaluates pretrained synthetic speech detectors (AASIST, AASIST-L, Wav2Vec2) across 21 acoustic scenarios: a clean baseline plus noise, MP3 compression, reverberation and low-pass filtering, each at five severity levels. No models are trained; all detectors are used with their original pretrained weights.</p><p>The repository contains the five-step evaluation pipeline (text-matched REAL-TTS pair generation with Piper, full scenario evaluation, ONNX/PyTorch reference parity audit, repeat-padding correction, and a frozen one-time hidden test protocol), dataset audits, manuscript preparation scripts and archived development releases.</p><p>Audio recordings, model weights, predictions and hidden-test results are not included. SHA-256 checksums for all files are listed in CODE_MANIFEST_SHA256.json.</p>",
+  "creators": [
+    {
+      "name": "Lipianina-Honcharenko, Khrystyna",
+      "affiliation": "West Ukrainian National University"
+    },
+    {
+      "name": "Bykovyy, Pavlo",
+      "affiliation": "West Ukrainian National University"
+    },
+    {
+      "name": "Honcharenko, Oleh",
+      "affiliation": "West Ukrainian National University"
+    }
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "keywords": [
+    "audio deepfake detection",
+    "synthetic speech detection",
+    "anti-spoofing",
+    "robustness evaluation",
+    "acoustic scenarios",
+    "Ukrainian speech",
+    "AASIST",
+    "Wav2Vec2",
+    "text-to-speech"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://huggingface.co/datasets/adam-i/ATV-UA",
+      "relation": "references",
+      "resource_type": "dataset",
+      "scheme": "url"
+    }
+  ]
+}
